@@ -37,7 +37,7 @@ int main() {
 
 ## OUTPUT:
 
-![alt text](../C-6.png)
+![alt text](C-6.png)
 
 ## RESULT:
 
@@ -80,7 +80,7 @@ int main() {
 
 ## OUTPUT:
 
-![alt text](../C-7.png)
+![alt text](C-7.png)
 
 ## RESULT:
 
@@ -126,7 +126,7 @@ int main() {
 
 ## OUTPUT:
 
-![alt text](../C-8.png)
+![alt text](C-8.png)
 
 ## RESULT:
 
@@ -171,7 +171,7 @@ int main() {
 
 ## OUTPUT:
 
-![alt text](../C-9.png)
+![alt text](C-9.png)
 
 ## RESULT:
 
@@ -221,7 +221,7 @@ int main() {
 
 ## OUTPUT:
 
-![alt text](../C-10.png)
+![alt text](C-10.png)
 
 ## RESULT:
 
